@@ -43,5 +43,5 @@ Sinta-se à vontade para sugerir melhorias ou novas funcionalidades! Basta abrir
 ### 5️⃣ Clique em "Commit changes":
 - Depois de colar o conteúdo no arquivo, role para baixo da página e você verá um botão verde escrito "Commit new file" ou "Commit changes". Clique nele para salvar as alterações.
 
-E pronto! Seu repositório agora tem um README para explicar sobre seu projeto. Caso tenha mais dúvidas ou queira ajustar algo, estou aqui! 😄
+
 
